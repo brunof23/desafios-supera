@@ -4,8 +4,8 @@
 * Digitar no console javac NomedaClasse.java
 * Digitar no console java NomedaClasse
 
-  Pronto, o programa inicia perguntando as entradas
+* Pronto, o programa inicia perguntando as entradas
 
-  Desenvolvido em Java 17
+* Desenvolvido em Java 17
 
-  Bruno Ferreira
+* Bruno Ferreira
